@@ -1,0 +1,15 @@
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\bin\Debug\net7.0\TaskAPI.Infrastructure.deps.json
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\bin\Debug\net7.0\TaskAPI.Infrastructure.dll
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\bin\Debug\net7.0\TaskAPI.Infrastructure.pdb
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\bin\Debug\net7.0\TaskAPI.Core.dll
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\bin\Debug\net7.0\TaskAPI.Core.pdb
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\obj\Debug\net7.0\TaskAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\obj\Debug\net7.0\TaskAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\obj\Debug\net7.0\TaskAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\obj\Debug\net7.0\TaskAPI.Infrastructure.AssemblyInfo.cs
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\obj\Debug\net7.0\TaskAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\obj\Debug\net7.0\TaskAPI.Infrastructure.csproj.CopyComplete
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\obj\Debug\net7.0\TaskAPI.Infrastructure.dll
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\obj\Debug\net7.0\refint\TaskAPI.Infrastructure.dll
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\obj\Debug\net7.0\TaskAPI.Infrastructure.pdb
+D:\.NETprojects\TaskAPI\TaskAPI.Infrastructure\obj\Debug\net7.0\ref\TaskAPI.Infrastructure.dll

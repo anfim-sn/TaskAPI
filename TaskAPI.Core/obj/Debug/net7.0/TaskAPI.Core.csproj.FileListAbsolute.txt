@@ -1,0 +1,12 @@
+D:\.NETprojects\TaskAPI\TaskAPI.Core\bin\Debug\net7.0\TaskAPI.Core.deps.json
+D:\.NETprojects\TaskAPI\TaskAPI.Core\bin\Debug\net7.0\TaskAPI.Core.dll
+D:\.NETprojects\TaskAPI\TaskAPI.Core\bin\Debug\net7.0\TaskAPI.Core.pdb
+D:\.NETprojects\TaskAPI\TaskAPI.Core\obj\Debug\net7.0\TaskAPI.Core.csproj.AssemblyReference.cache
+D:\.NETprojects\TaskAPI\TaskAPI.Core\obj\Debug\net7.0\TaskAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NETprojects\TaskAPI\TaskAPI.Core\obj\Debug\net7.0\TaskAPI.Core.AssemblyInfoInputs.cache
+D:\.NETprojects\TaskAPI\TaskAPI.Core\obj\Debug\net7.0\TaskAPI.Core.AssemblyInfo.cs
+D:\.NETprojects\TaskAPI\TaskAPI.Core\obj\Debug\net7.0\TaskAPI.Core.csproj.CoreCompileInputs.cache
+D:\.NETprojects\TaskAPI\TaskAPI.Core\obj\Debug\net7.0\TaskAPI.Core.dll
+D:\.NETprojects\TaskAPI\TaskAPI.Core\obj\Debug\net7.0\refint\TaskAPI.Core.dll
+D:\.NETprojects\TaskAPI\TaskAPI.Core\obj\Debug\net7.0\TaskAPI.Core.pdb
+D:\.NETprojects\TaskAPI\TaskAPI.Core\obj\Debug\net7.0\ref\TaskAPI.Core.dll
